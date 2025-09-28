@@ -1,0 +1,22 @@
+# Fichiers compilés Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Dossiers de build
+bin/
+build/
+target/
+
+# Fichiers d'IDE
+.vscode/
+.idea/
+*.iml
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
